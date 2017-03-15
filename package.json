@@ -1,0 +1,8 @@
+{
+  "name": "copycat",
+  "version": "1.0.0",
+  "description": "Copy input across multiple windows",
+  "main": "index.js",
+  "author": "Mike Grip <mgrip@wayfair.com>",
+  "license": "MIT"
+}
