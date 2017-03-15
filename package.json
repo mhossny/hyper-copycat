@@ -1,5 +1,5 @@
 {
-  "name": "copycat",
+  "name": "hyper-copycat",
   "version": "1.0.0",
   "description": "Copy input across multiple windows",
   "main": "index.js",
