@@ -1,4 +1,4 @@
-# hyperterm-copycat
+# hyper-copycat
 Duplicate keystrokes across all terminals in a tab
 
 ![hyper-statusline](https://github.com/mgrip/hyper-copycat/blob/master/hyper-copycat.gif)
