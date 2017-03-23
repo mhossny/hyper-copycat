@@ -1,11 +1,11 @@
 # hyperterm-copycat
 Duplicate keystrokes across all terminals in a tab
 
-![hyper-statusline](/mgrip/hyper-copycat/blob/master/hyper-copycat.gif?raw=true)
+![hyper-statusline](https://github.com/mgrip/hyper-copycat/blob/master/hyper-copycat.gif)
 
 ```
 npm install hyper-copycat
 ```
 
-###Description
+### Description
 To toggle, `Shift+Space`
