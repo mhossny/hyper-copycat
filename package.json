@@ -1,6 +1,6 @@
 {
   "name": "hyper-copycat",
-  "version": "1.1.0",
+  "version": "0.1.0",
   "description": "Copy input across multiple windows",
   "main": "index.js",
   "author": "Mike Grip <mgrip@wayfair.com>",
