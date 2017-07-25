@@ -82,7 +82,7 @@ exports.decorateTerm = (Term, { React }) => class extends React.Component {
 
         term.uninstallKeyboard();
         const handler = (e) => {
-          if (e.key === ' ' && e.shiftKey) {
+          if (e.key === 'i' && e.ctrlKey) {
             e.preventDefault();
             this.props.toggleCopyCat();
           }
